@@ -1,0 +1,33 @@
+<head>
+  <title>Meteor Mogul playground</title>
+</head>
+
+<body>
+  <h1>Meteor Mogul app running</h1>
+
+  <div id="app">
+    <div>
+      <hello></hello>
+      <info></info>
+    </div>
+  </div>
+
+  <script type="text/x-template" id="hello">
+    <div>
+      <button v-on:click="counter += 1">Click Me</button>
+      <p>You've pressed the button {{counter}} times.</p>
+    </div>
+  </script>
+
+  <script type="text/x-template" id="info">
+    <div>
+      <h2>Learn Meteor!</h2>
+      <ul>
+        <li><a href="https://www.meteor.com/try" target="_blank">Do the Tutorial</a></li>
+        <li><a href="http://guide.meteor.com" target="_blank">Follow the Guide</a></li>
+        <li><a href="https://docs.meteor.com" target="_blank">Read the Docs</a></li>
+        <li><a href="https://forums.meteor.com" target="_blank">Discussions</a></li>
+      </ul>
+    </div>
+  </script>
+</body>
