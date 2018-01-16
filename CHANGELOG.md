@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.6] - 2018-01-16
+
+- Now needs vue-meteor-tracker to provide Vue components with Meteor reactivity.
+
 ## [0.0.5] - 2018-01-16
 
 - Added accounts-password to have a login service to play with
