@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.4] - 2018-01-15
+
+- Giving up on export / import and instead using LoginButtons as globals
+
 ## [0.0.3] - 2018-01-15
 
 - Start work on meteormogul:accounts-vue-unstyled

@@ -1,5 +1,8 @@
 import { Vue } from 'meteor/meteormogul:vue-dist';
-import { LoginButtons } from 'meteor/meteormogul:accounts-vue-unstyled';
+// Exporting and importing from the meteormogul:accounts-vue-unstyled package
+// isn't working yet.  Just dumps everything to globals.
+// import { LoginButtons } from 'meteor/meteormogul:accounts-vue-unstyled';
+console.log('{ LoginButtons } from playground/main.js', LoginButtons);
 
 Vue.component('hello',
 {
