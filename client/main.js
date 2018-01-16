@@ -1,4 +1,5 @@
 import { Vue } from 'meteor/meteormogul:vue-dist';
+import { LoginButtons } from 'meteor/meteormogul:accounts-vue-unstyled';
 
 Vue.component('hello',
 {

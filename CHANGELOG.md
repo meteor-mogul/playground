@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.3] - 2018-01-15
+
+- Start work on meteormogul:accounts-vue-unstyled
+
 ## [0.0.2] - 2018-01-15
 
 - Use templates for all Vue instances.
