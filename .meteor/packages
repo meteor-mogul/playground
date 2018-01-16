@@ -23,4 +23,5 @@ static-html                   # Define static page content in .html files
 meteormogul:vue-dist          # VueJS view layer
 twbs:bootstrap                # Popular CSS and front-end framework
 
+accounts-password
 meteormogul:accounts-vue-unstyled # Accounts

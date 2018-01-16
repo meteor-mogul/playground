@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.5] - 2018-01-16
+
+- Added accounts-password to have a login service to play with
+
 ## [0.0.4] - 2018-01-15
 
 - Giving up on export / import and instead using LoginButtons as globals
