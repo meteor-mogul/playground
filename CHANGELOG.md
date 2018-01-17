@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.7] - 2018-01-17
+
+- Some visual separation between the login buttons and the rest of the app
+
 ## [0.0.6] - 2018-01-16
 
 - Now needs vue-meteor-tracker to provide Vue components with Meteor reactivity.
