@@ -24,4 +24,4 @@ meteormogul:vue-dist          # VueJS view layer
 twbs:bootstrap                # Popular CSS and front-end framework
 
 accounts-password
-meteormogul:accounts-vue-unstyled # Accounts
+meteormogul:accounts-vue      # Accounts

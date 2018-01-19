@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.8] - 2018-01-18
+
+- Added meteor-accounts-vue so Accounts has style
+
 ## [0.0.7] - 2018-01-17
 
 - Some visual separation between the login buttons and the rest of the app
