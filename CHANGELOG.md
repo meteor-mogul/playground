@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.9] - 2018-02-20
+
+- Explain purpose in README
+
 ## [0.0.8] - 2018-01-18
 
 - Added meteor-accounts-vue so Accounts has style
