@@ -1,5 +1,10 @@
 # Changelog for Meteor Mogul playground
 
+## [0.10.0] - 2018-02-25
+
+- Play around with meteor Accounts
+- Upgrade to meteor 1.6.1
+
 ## [0.0.9] - 2018-02-20
 
 - Explain purpose in README
