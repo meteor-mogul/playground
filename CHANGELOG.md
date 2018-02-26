@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.12] - 2018-02-26
+
+- Got count of number of users working.
+
 ## [0.0.11] - 2018-02-25
 
 - Oops, messed up last commit.  Revision should have been 0.0.10, not 0.10.0

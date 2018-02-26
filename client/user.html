@@ -1,0 +1,29 @@
+<body>
+  <script type="text/x-template" id="create-user-template">
+    <div>
+      <input
+        type="text"
+        placeholder="Username"
+        v-model="username"
+      >
+      <input
+        type="text"
+        placeholder="Email Address"
+        v-model="email"
+      >
+      <input
+        type="text"
+        placeholder="Password"
+        v-model="password"
+      >
+      <button v-on:click="createUser">Create new user</button>
+    </div>
+  </script>
+
+  <script type="text/x-template" id="count-users-template">
+    <div>
+      Users in database: {{ users }}
+    </div>
+  </script>
+
+</body>
