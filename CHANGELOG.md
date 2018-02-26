@@ -1,6 +1,11 @@
 # Changelog for Meteor Mogul playground
 
-## [0.10.0] - 2018-02-25
+## [0.0.11] - 2018-02-25
+
+- Oops, messed up last commit.  Revision should have been 0.0.10, not 0.10.0
+- Splitting components into separate files
+
+## [0.0.10] - 2018-02-25
 
 - Play around with meteor Accounts
 - Upgrade to meteor 1.6.1

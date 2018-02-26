@@ -9,23 +9,6 @@ console.log('{ LoginButtons } from playground/client/main.js', LoginButtons);
 import { Accounts } from 'meteor/accounts-base';
 console.log('{ Accounts } from playground/client/main.js', Accounts);
 
-Vue.component('hello',
-{
-  name: 'hello',
-  template: '#hello-template',
-  data: function () {
-    return {
-      counter: 0
-    }
-  }
-});
-
-Vue.component('info',
-{
-  name: 'info',
-  template: '#info-template'
-});
-
 Vue.component('create-user',
   {
     name: 'create-user',
