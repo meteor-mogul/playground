@@ -1,3 +1,4 @@
+import 'vuetify/dist/vuetify.min.css';
 import { Meteor } from 'meteor/meteor';
 import { Vue } from 'meteor/meteormogul:vue-dist';
 

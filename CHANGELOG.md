@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.13] - 2018-02-27
+
+- ripped out accounts-ui stuff and now working on accounts-vuetify
+
 ## [0.0.12] - 2018-02-26
 
 - Got count of number of users working.
