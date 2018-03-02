@@ -1,9 +1,6 @@
-import 'vuetify/dist/vuetify.min.css';
 import { Meteor } from 'meteor/meteor';
 import { Vue } from 'meteor/meteormogul:vue-dist';
-
 import { Accounts } from 'meteor/accounts-base';
-console.log('{ Accounts } from playground/client/main.js', Accounts);
 
 vm = new Vue({
   el: '#app',

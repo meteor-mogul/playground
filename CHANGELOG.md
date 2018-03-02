@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.14] - 2018-03-02
+
+- meteormogul:accounts-vuetify
+
 ## [0.0.13] - 2018-02-27
 
 - ripped out accounts-ui stuff and now working on accounts-vuetify
