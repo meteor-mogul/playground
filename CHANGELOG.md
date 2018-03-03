@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.15] - 2018-03-02
+
+- Have just one v-app
+
 ## [0.0.14] - 2018-03-02
 
 - meteormogul:accounts-vuetify
