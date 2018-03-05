@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.18] - 2018-03-04
+
+- disable resize watcher on navigation drawer
+
 ## [0.0.17] - 2018-03-04
 
 - small tweak to force heroku re-compile
