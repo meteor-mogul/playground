@@ -20,8 +20,8 @@
           @click="showDrawer = !showDrawer"></v-toolbar-side-icon>
         <v-toolbar-title>Meteor Mogul app running</v-toolbar-title>
         <v-spacer></v-spacer>
-        <v-toolbar-items class="hidden-sm-and-down" v-if="!showDrawer">
-          <account-login></account-login>
+        <v-toolbar-items class="hidden-sm-and-down">
+          <account-login v-if="!showDrawer"></account-login>
         </v-toolbar-items>
       </v-toolbar>
 

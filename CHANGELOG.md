@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.17] - 2018-03-04
+
+- small tweak to force heroku re-compile
+
 ## [0.0.16] - 2018-03-04
 
 - app layout, including drawer on resize
