@@ -4,5 +4,8 @@ import { Accounts } from 'meteor/accounts-base';
 
 vm = new Vue({
   el: '#app',
-  template: '#app-template'
+  template: '#app-template',
+  data: {
+    showDrawer: false
+  }
 });

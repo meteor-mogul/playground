@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.16] - 2018-03-04
+
+- app layout, including drawer on resize
+
 ## [0.0.15] - 2018-03-02
 
 - Have just one v-app

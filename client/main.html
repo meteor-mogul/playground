@@ -8,18 +8,37 @@
 
   <script type="text/x-template" id="app-template">
     <v-app>
-      <h1>Meteor Mogul app running</h1>
-      <account-login></account-login>
 
-      <hr />
+      <v-navigation-drawer
+        app
+        v-model="showDrawer">
+        <account-login v-if="showDrawer"></account-login>
+      </v-navigation-drawer>
+      <v-toolbar app>
+        <v-toolbar-side-icon
+          class="hidden-md-and-up"
+          @click="showDrawer = !showDrawer"></v-toolbar-side-icon>
+        <v-toolbar-title>Meteor Mogul app running</v-toolbar-title>
+        <v-spacer></v-spacer>
+        <v-toolbar-items class="hidden-sm-and-down" v-if="!showDrawer">
+          <account-login></account-login>
+        </v-toolbar-items>
+      </v-toolbar>
 
-      <create-user></create-user>
-      <count-users></count-users>
+      <v-content>
+        <v-container fluid>
+          <hr />
 
-      <hr />
+          <create-user></create-user>
+          <count-users></count-users>
 
-      <hello></hello>
-      <info></info>
+          <hr />
+
+          <hello></hello>
+          <info></info>
+        </v-container>
+      </v-content>
+      <v-footer app></v-footer>
     </v-app>
   </script>
 
