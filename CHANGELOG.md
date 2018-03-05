@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.19] - 2018-03-04
+
+- make responsive
+
 ## [0.0.18] - 2018-03-04
 
 - disable resize watcher on navigation drawer
