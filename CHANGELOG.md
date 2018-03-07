@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.20] - 2018-03-06
+
+- move links to navigation drawer
+
 ## [0.0.19] - 2018-03-04
 
 - make responsive

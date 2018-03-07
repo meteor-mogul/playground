@@ -1,8 +1,10 @@
 <body>
   <script type="text/x-template" id="hello-template">
-    <div>
-      <button @click="counter += 1">Click Me</button>
-      <p>You've pressed the button {{counter}} times.</p>
-    </div>
+    <v-card>
+      <v-card-text>
+        <v-btn @click="counter += 1">Click Me</v-btn>
+        <p>You've pressed the button {{counter}} times.</p>
+      </v-card-text>
+    </v-card>
   </script>
 </body>

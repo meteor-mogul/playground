@@ -41,7 +41,7 @@ localstorage@1.2.0
 logging@1.1.19
 meteor@1.8.3
 meteor-base@1.3.0
-meteormogul:accounts-vuetify@0.0.10
+meteormogul:accounts-vuetify@0.0.11
 meteormogul:material-design-icons-fonts@3.0.1
 meteormogul:vue-dist@2.5.16
 meteormogul:vuetify-dist@1.0.4
