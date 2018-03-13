@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.22] - 2018-03-13
+
+- Add favicon
+
 ## [0.0.21] - 2018-03-12
 
 - use Vue Router
