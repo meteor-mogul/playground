@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.23] - 2018-03-14
+
+- Add link to favicon in head tag
+
 ## [0.0.22] - 2018-03-13
 
 - Add favicon
