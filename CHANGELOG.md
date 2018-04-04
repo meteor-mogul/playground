@@ -1,5 +1,9 @@
 # Changelog for Meteor Mogul playground
 
+## [0.0.24] - 2018-03-15
+
+- Update vue and vuetify
+
 ## [0.0.23] - 2018-03-14
 
 - Add link to favicon in head tag
